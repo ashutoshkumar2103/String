@@ -1,4 +1,4 @@
-public class Two_String {
+public class Two_String_Same {
 
 	public static void main(String[] args) {
 		String s1="govind";
